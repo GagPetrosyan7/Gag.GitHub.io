@@ -1,0 +1,64 @@
+.flexbox {
+    display: flex;
+    justify-content: space-between;
+}
+ul {
+    list-style: none;
+    display: flex;
+    justify-content: flex-end;
+    
+}
+ul  li {
+   color: blue;
+   font-size: 20px;
+   font-family: sans-serif;
+   text-indent: 10px;
+   height: 25px;
+   transition: 0.5s all;
+}
+ul li:hover {
+    cursor: pointer;
+    color: red;
+}
+.language {
+    color: blue;
+    font-size: 25px;
+    background: transparent;
+}
+.modal {
+    display: flex;
+    flex-direction: column;
+    background-color:ghostwhite;
+    margin: 10px 0;
+    width: 200px;
+    height: 100%;
+    position: relative;
+    display: block;
+}
+.active {
+    display: flex;
+}
+.modal button {
+    border: none;
+    background-color: blue;
+    color: #fff;
+    cursor: pointer;
+    transition: .5s all;
+    float: right;
+    width: 20px;
+}
+.modal button:hover {
+    background-color: red;
+    color: #fff;
+}
+.button {
+    position: absolute;
+    right: 0;
+    bottom: 80%;
+    width: 20%;
+}
+.menu {
+    background-color:beige;
+    width: 100%;
+    display: flex;
+}

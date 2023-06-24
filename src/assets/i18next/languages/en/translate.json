@@ -1,0 +1,15 @@
+{
+    "hello": "hello",
+    "Home": "Home",
+    "About": "About",
+    "Service": "Service",
+    "Contact": "Contact",
+    "text":"Web Programming Web programming is a branch of programming that deals with the cretion and operation of dynamic websites on the Internet. In other words, it provides the apperance of the page, its functions, and depending on any situration the updating of the page. This process is organized by web page developers using softwhere codes and thechical means. The work itself is very complex, requires knowlendge of several programming languages, skills in the use of thechnical means an logic.  ",
+    "text2":"Programming languages  are designed to work together whit web technologies. In that sense, web programming languages are devited into two groups: client service and server connecting languages: Web programming languages are those languages that are mainly created the orgainze and ensure the  of web technologies.",
+    "text3": "It is clear from the name that this language works in the client or user enviroment, which is provided by the browser. This is the main concern that arises when writing program code. wheter the browser used by the client will be able to rebroduce the information correctly, that is, will it read the given code? In the case, if the user prohibits the work of the software client, then it is not possible to implement it, no matter how much the programmer wants.",
+    "more": "More",
+    "less": "Less",
+    "card": "Card",
+    "about": "Javascript and interpredet programming language. It is the most papular scripting language on the internet and works in all papular browsers, including Google Chrome, Mozile,firefox,Opera and Safari. This language was first used by Netscrape Communiction in the Netscrape Navigator 2 beta 1995 browser. The Javascript language was created by Brendan ickke in 1995.",
+    "html": "Whit the help of HTML, you can easily create a relatively simple, but beautifully designed document. In addition to simplifing document structure, HTML supported hypertext. Multimedia capabillities were added a little later. Originally, the HTML language was created as a way to consruct and design documents, a way to display them regardless of the output medium used (screen,printer,etc.) The text in the origin HTML format ad to be reproduced with different technical equipment (the color screen of a modern computer, the monochrome) screen of an orgainzer, the limited--sized  screen of mobile phones or text audio reprodution programs or equipment. However, the modern use of HTML is far from its original meaning. "
+}

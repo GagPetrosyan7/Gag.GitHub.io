@@ -1,0 +1,68 @@
+.Card {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-flow:wrap;
+    flex-wrap: wrap;
+    padding-top: 50px;
+    width: 100%;
+    padding: 30px;
+}
+.list img {
+    width: 100%;
+    height: 400px;
+    overflow: hidden;
+    transition: 2s all;
+}
+.list {
+    background-color: blue;
+    color: #fff;
+    width: 400px;
+    margin: 10px 0;
+}
+.textbox {
+    font-family: sans-serif;
+    font-size: 20px;
+    padding: 10px;
+}
+.list .card {
+    font-size: 36px;
+    color: brown;
+    padding: 10px;
+    transition: 0.7s all;
+}
+.list .card:hover {
+    cursor: pointer;
+    color: #fff;
+}
+.Card .click {
+    background-color: brown;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    transition: 0.6s all;
+    margin: 2px;
+}
+.Card .click:hover {
+    cursor: pointer;
+    background: #fff;
+    color: brown;
+    padding: 8px 20px;
+    letter-spacing: 3px;
+}
+
+.list img:hover {
+    opacity: 0.6;
+    width: 400px;
+}
+.cardbox {
+    text-align: center;
+    padding-top: 20px;
+    font-size: 25px;
+    color: red;
+    letter-spacing: 3px;
+}
+.cardbox span {
+    color: blue;
+    font-size: 50px;
+}
